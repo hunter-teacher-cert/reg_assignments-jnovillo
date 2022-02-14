@@ -1,0 +1,959 @@
+"birthplace","year","nativity","country_code","total_population"
+"American Samoa","2019","Foreign born","ASM",292
+"Albania","2019","Foreign born","ALB",21770
+"Austria","2019","Foreign born","AUT",6007
+"Belgium","2019","Foreign born","BEL",3932
+"Bulgaria","2019","Foreign born","BGR",4356
+"Czechoslovakia","2019","Foreign born",,1838
+"Denmark","2019","Foreign born","DNK",1980
+"Finland","2019","Foreign born","FIN",1373
+"France","2019","Foreign born","FRA",23593
+"Germany","2019","Foreign born","DEU",40227
+"Greece","2019","Foreign born","GRC",25960
+"Hungary","2019","Foreign born","HUN",7737
+"Iceland","2019","Foreign born","ISL",371
+"Ireland","2019","Foreign born","IRL",25708
+"Italy","2019","Foreign born","ITA",83400
+"Netherlands","2019","Foreign born","NLD",6064
+"Norway","2019","Foreign born","NOR",2702
+"Poland","2019","Foreign born","POL",66103
+"Portugal","2019","Foreign born","PRT",8814
+"Azores Islands","2019","Foreign born",,268
+"Romania","2019","Foreign born","ROU",15744
+"Spain","2019","Foreign born","ESP",13192
+"Sweden","2019","Foreign born","SWE",2788
+"Switzerland","2019","Foreign born","CHE",3849
+"United Kingdom, not specified","2019","Foreign born","GBR",33698
+"England","2019","Foreign born",,21438
+"Scotland","2019","Foreign born",,5064
+"Northern Ireland","2019","Foreign born",,1259
+"Yugoslavia","2019","Foreign born",,3643
+"Czech Republic","2019","Foreign born","CZE",1763
+"Slovakia","2019","Foreign born","SVK",3008
+"Bosnia and Herzegovina","2019","Foreign born","BIH",10484
+"Croatia","2019","Foreign born","HRV",5098
+"Macedonia","2019","Foreign born","MKD",4243
+"Serbia","2019","Foreign born","SRB",5681
+"Latvia","2019","Foreign born","LVA",2568
+"Lithuania","2019","Foreign born","LTU",3639
+"Armenia","2019","Foreign born","ARM",2041
+"Azerbaijan","2019","Foreign born","AZE",5290
+"Belarus","2019","Foreign born","BLR",15576
+"Georgia (country)","2019","Foreign born","GEO",9392
+"Moldova","2019","Foreign born","MDA",5398
+"Russia","2019","Foreign born","RUS",78692
+"Ukraine","2019","Foreign born","UKR",72407
+"USSR","2019","Foreign born",,10205
+"Europe","2019","Foreign born",,627
+"Kosovo","2019","Foreign born",,2953
+"Montenegro","2019","Foreign born","MNE",7279
+"Other Europe, not specified","2019","Foreign born",,2571
+"Afghanistan","2019","Foreign born","AFG",9698
+"Bangladesh","2019","Foreign born","BGD",107698
+"Bhutan","2019","Foreign born","BTN",4631
+"Myanmar","2019","Foreign born","MMR",15300
+"Cambodia","2019","Foreign born","KHM",7317
+"China","2019","Foreign born","CHN",419011
+"Hong Kong","2019","Foreign born","HKG",40408
+"India","2019","Foreign born","IND",160850
+"Indonesia","2019","Foreign born","IDN",5830
+"Iran","2019","Foreign born","IRN",16281
+"Iraq","2019","Foreign born","IRQ",8188
+"Israel","2019","Foreign born","ISR",24021
+"Japan","2019","Foreign born","JPN",24023
+"Jordan","2019","Foreign born","JOR",6370
+"Korea","2019","Foreign born",,84931
+"Kazakhstan","2019","Foreign born","KAZ",4610
+"Kyrgyzstan","2019","Foreign born","KGZ",974
+"Kuwait","2019","Foreign born","KWT",794
+"Laos","2019","Foreign born","LAO",2600
+"Lebanon","2019","Foreign born","LBN",7973
+"Malaysia","2019","Foreign born","MYS",9282
+"Mongolia","2019","Foreign born","MNG",415
+"Nepal","2019","Foreign born","NPL",13663
+"Pakistan","2019","Foreign born","PAK",66387
+"Philippines","2019","Foreign born","PHL",89482
+"Saudi Arabia","2019","Foreign born","SAU",2398
+"Singapore","2019","Foreign born","SGP",4212
+"Sri Lanka","2019","Foreign born","LKA",6049
+"Syria","2019","Foreign born","SYR",7569
+"Taiwan","2019","Foreign born","TWN",26387
+"Thailand","2019","Foreign born","THA",12857
+"Turkey","2019","Foreign born","TUR",15155
+"United Arab Emirates","2019","Foreign born","ARE",4266
+"Uzbekistan","2019","Foreign born","UZB",31018
+"Vietnam","2019","Foreign born","VNM",27778
+"Yemen","2019","Foreign born","YEM",14990
+"Asia","2019","Foreign born",,6172
+"South Central Asia, not specified","2019","Foreign born",,2721
+"Other Asia, not specified","2019","Foreign born",,4556
+"Bermuda","2019","Foreign born","BMU",672
+"Canada","2019","Foreign born","CAN",54198
+"Mexico","2019","Foreign born","MEX",207379
+"Belize","2019","Foreign born","BLZ",4937
+"Costa Rica","2019","Foreign born","CRI",8558
+"El Salvador","2019","Foreign born","SLV",107731
+"Guatemala","2019","Foreign born","GTM",79312
+"Honduras","2019","Foreign born","HND",53293
+"Nicaragua","2019","Foreign born","NIC",10864
+"Panama","2019","Foreign born","PAN",14285
+"Antigua & Barbuda","2019","Foreign born","ATG",7888
+"Bahamas","2019","Foreign born","BHS",1081
+"Barbados","2019","Foreign born","BRB",23858
+"Cuba","2019","Foreign born","CUB",19772
+"Dominica","2019","Foreign born","DMA",12804
+"Dominican Republic","2019","Foreign born","DOM",478796
+"Grenada","2019","Foreign born","GRD",20454
+"Haiti","2019","Foreign born","HTI",128392
+"Jamaica","2019","Foreign born","JAM",240058
+"St. Kitts-Nevis","2019","Foreign born",,3937
+"St Lucia","2019","Foreign born","LCA",9755
+"St Vincent & the Grenadines","2019","Foreign born","VCT",10219
+"Trinidad & Tobago","2019","Foreign born","TTO",84904
+"West Indies","2019","Foreign born",,4876
+"Caribbean, Not Specified","2019","Foreign born",,6938
+"Argentina","2019","Foreign born","ARG",21071
+"Bolivia","2019","Foreign born","BOL",5300
+"Brazil","2019","Foreign born","BRA",32452
+"Chile","2019","Foreign born","CHL",10202
+"Colombia","2019","Foreign born","COL",105088
+"Ecuador","2019","Foreign born","ECU",152725
+"Guyana","2019","Foreign born","GUY",155791
+"Paraguay","2019","Foreign born","PRY",7752
+"Peru","2019","Foreign born","PER",49984
+"Uruguay","2019","Foreign born","URY",4034
+"Venezuela","2019","Foreign born","VEN",18450
+"South America","2019","Foreign born",,1707
+"Americas, not specified","2019","Foreign born",,3289
+"Algeria","2019","Foreign born","DZA",2705
+"Cameroon","2019","Foreign born","CMR",1522
+"Cabo Verde","2019","Foreign born","CPV",277
+"Congo","2019","Foreign born","COG",2419
+"Egypt","2019","Foreign born","EGY",24868
+"Ethiopia","2019","Foreign born","ETH",6518
+"Eritrea","2019","Foreign born","ERI",861
+"Gambia","2019","Foreign born","GMB",2581
+"Ghana","2019","Foreign born","GHA",39392
+"Guinea","2019","Foreign born","GIN",4727
+"Ivory Coast","2019","Foreign born","CIV",5256
+"Kenya","2019","Foreign born","KEN",4410
+"Liberia","2019","Foreign born","LBR",4426
+"Libya","2019","Foreign born","LBY",653
+"Morocco","2019","Foreign born","MAR",8249
+"Nigeria","2019","Foreign born","NGA",33284
+"Rwanda","2019","Foreign born","RWA",640
+"Senegal","2019","Foreign born","SEN",7108
+"Sierra Leone","2019","Foreign born","SLE",2464
+"Somalia","2019","Foreign born","SOM",1805
+"South Africa","2019","Foreign born","ZAF",5469
+"Sudan","2019","Foreign born","SDN",2238
+"Tanzania","2019","Foreign born","TZA",1834
+"Togo","2019","Foreign born","TGO",5518
+"Tunisia","2019","Foreign born","TUN",1674
+"Uganda","2019","Foreign born","UGA",1456
+"Democratic Republic of Congo (Zaire)","2019","Foreign born","COD",3469
+"Zambia","2019","Foreign born","ZMB",862
+"Zimbabwe","2019","Foreign born","ZWE",879
+"Africa","2019","Foreign born",,11276
+"Eastern Africa, not specified","2019","Foreign born",,248
+"Western Africa, not specified","2019","Foreign born",,8298
+"Other Africa, not specified","2019","Foreign born",,1611
+"Eastern Africa, Not Specified","2019","Foreign born",,1708
+"Australia","2019","Foreign born","AUS",12897
+"Micronesia","2019","Foreign born","KSM",56
+"New Zealand","2019","Foreign born","NZL",1034
+"Tonga","2019","Foreign born","TON",119
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2019","Foreign born",,146
+"Albania","2018","Foreign born","ALB",23212
+"Austria","2018","Foreign born","AUT",3842
+"Belgium","2018","Foreign born","BEL",4742
+"Bulgaria","2018","Foreign born","BGR",5411
+"Czechoslovakia","2018","Foreign born",,5075
+"Denmark","2018","Foreign born","DNK",2147
+"Finland","2018","Foreign born","FIN",1487
+"France","2018","Foreign born","FRA",31515
+"Germany","2018","Foreign born","DEU",40531
+"Greece","2018","Foreign born","GRC",29499
+"Hungary","2018","Foreign born","HUN",11101
+"Iceland","2018","Foreign born","ISL",420
+"Ireland","2018","Foreign born","IRL",31726
+"Italy","2018","Foreign born","ITA",86298
+"Netherlands","2018","Foreign born","NLD",5556
+"Norway","2018","Foreign born","NOR",1916
+"Poland","2018","Foreign born","POL",65384
+"Portugal","2018","Foreign born","PRT",10516
+"Romania","2018","Foreign born","ROU",22192
+"Spain","2018","Foreign born","ESP",13496
+"Sweden","2018","Foreign born","SWE",5513
+"Switzerland","2018","Foreign born","CHE",3042
+"United Kingdom, not specified","2018","Foreign born","GBR",35921
+"England","2018","Foreign born",,21618
+"Scotland","2018","Foreign born",,4903
+"Northern Ireland","2018","Foreign born",,1303
+"Yugoslavia","2018","Foreign born",,3370
+"Czech Republic","2018","Foreign born","CZE",2606
+"Slovakia","2018","Foreign born","SVK",2758
+"Bosnia and Herzegovina","2018","Foreign born","BIH",9734
+"Croatia","2018","Foreign born","HRV",8109
+"Macedonia","2018","Foreign born","MKD",3111
+"Serbia","2018","Foreign born","SRB",5506
+"Latvia","2018","Foreign born","LVA",5264
+"Lithuania","2018","Foreign born","LTU",2249
+"Armenia","2018","Foreign born","ARM",3123
+"Azerbaijan","2018","Foreign born","AZE",4811
+"Belarus","2018","Foreign born","BLR",15724
+"Georgia (country)","2018","Foreign born","GEO",7038
+"Moldova","2018","Foreign born","MDA",7131
+"Russia","2018","Foreign born","RUS",71710
+"Ukraine","2018","Foreign born","UKR",70230
+"USSR","2018","Foreign born",,12940
+"Europe","2018","Foreign born",,2218
+"Kosovo","2018","Foreign born",,1547
+"Montenegro","2018","Foreign born","MNE",7058
+"Other Europe, not specified","2018","Foreign born",,2475
+"Afghanistan","2018","Foreign born","AFG",4969
+"Bangladesh","2018","Foreign born","BGD",110784
+"Bhutan","2018","Foreign born","BTN",4983
+"Myanmar","2018","Foreign born","MMR",13733
+"Cambodia","2018","Foreign born","KHM",1785
+"China","2018","Foreign born","CHN",407280
+"Hong Kong","2018","Foreign born","HKG",39334
+"India","2018","Foreign born","IND",163542
+"Indonesia","2018","Foreign born","IDN",4743
+"Iran","2018","Foreign born","IRN",19494
+"Iraq","2018","Foreign born","IRQ",5230
+"Israel","2018","Foreign born","ISR",30648
+"Japan","2018","Foreign born","JPN",27032
+"Jordan","2018","Foreign born","JOR",2993
+"Korea","2018","Foreign born",,84382
+"Kazakhstan","2018","Foreign born","KAZ",4250
+"Kyrgyzstan","2018","Foreign born","KGZ",2040
+"Kuwait","2018","Foreign born","KWT",1983
+"Laos","2018","Foreign born","LAO",1877
+"Lebanon","2018","Foreign born","LBN",8732
+"Malaysia","2018","Foreign born","MYS",9865
+"Mongolia","2018","Foreign born","MNG",107
+"Nepal","2018","Foreign born","NPL",17178
+"Pakistan","2018","Foreign born","PAK",60103
+"Philippines","2018","Foreign born","PHL",81741
+"Saudi Arabia","2018","Foreign born","SAU",4275
+"Singapore","2018","Foreign born","SGP",2966
+"Sri Lanka","2018","Foreign born","LKA",6470
+"Syria","2018","Foreign born","SYR",9716
+"Taiwan","2018","Foreign born","TWN",33869
+"Thailand","2018","Foreign born","THA",14884
+"Turkey","2018","Foreign born","TUR",25093
+"United Arab Emirates","2018","Foreign born","ARE",885
+"Uzbekistan","2018","Foreign born","UZB",32890
+"Vietnam","2018","Foreign born","VNM",25591
+"Yemen","2018","Foreign born","YEM",16319
+"Asia","2018","Foreign born",,3905
+"South Central Asia, not specified","2018","Foreign born",,4207
+"Other Asia, not specified","2018","Foreign born",,2684
+"Bermuda","2018","Foreign born","BMU",152
+"Canada","2018","Foreign born","CAN",58752
+"Mexico","2018","Foreign born","MEX",222031
+"Belize","2018","Foreign born","BLZ",7466
+"Costa Rica","2018","Foreign born","CRI",8743
+"El Salvador","2018","Foreign born","SLV",105337
+"Guatemala","2018","Foreign born","GTM",59307
+"Honduras","2018","Foreign born","HND",58637
+"Nicaragua","2018","Foreign born","NIC",8229
+"Panama","2018","Foreign born","PAN",17371
+"Antigua & Barbuda","2018","Foreign born","ATG",9406
+"Bahamas","2018","Foreign born","BHS",1772
+"Barbados","2018","Foreign born","BRB",27228
+"Cuba","2018","Foreign born","CUB",22391
+"Dominica","2018","Foreign born","DMA",10587
+"Dominican Republic","2018","Foreign born","DOM",505970
+"Grenada","2018","Foreign born","GRD",30441
+"Haiti","2018","Foreign born","HTI",125148
+"Jamaica","2018","Foreign born","JAM",205618
+"St. Kitts-Nevis","2018","Foreign born",,3411
+"St Lucia","2018","Foreign born","LCA",9829
+"St Vincent & the Grenadines","2018","Foreign born","VCT",14524
+"Trinidad & Tobago","2018","Foreign born","TTO",88083
+"West Indies","2018","Foreign born",,8488
+"Caribbean, Not Specified","2018","Foreign born",,4775
+"Argentina","2018","Foreign born","ARG",24055
+"Bolivia","2018","Foreign born","BOL",5225
+"Brazil","2018","Foreign born","BRA",29437
+"Chile","2018","Foreign born","CHL",13949
+"Colombia","2018","Foreign born","COL",107155
+"Ecuador","2018","Foreign born","ECU",158996
+"Guyana","2018","Foreign born","GUY",159973
+"Paraguay","2018","Foreign born","PRY",4386
+"Peru","2018","Foreign born","PER",55215
+"Uruguay","2018","Foreign born","URY",4916
+"Venezuela","2018","Foreign born","VEN",17853
+"South America","2018","Foreign born",,1159
+"Americas, not specified","2018","Foreign born",,2700
+"Algeria","2018","Foreign born","DZA",2908
+"Cameroon","2018","Foreign born","CMR",4827
+"Cabo Verde","2018","Foreign born","CPV",29
+"Congo","2018","Foreign born","COG",2254
+"Egypt","2018","Foreign born","EGY",30371
+"Ethiopia","2018","Foreign born","ETH",5918
+"Eritrea","2018","Foreign born","ERI",1154
+"Gambia","2018","Foreign born","GMB",1501
+"Ghana","2018","Foreign born","GHA",41787
+"Guinea","2018","Foreign born","GIN",5736
+"Ivory Coast","2018","Foreign born","CIV",6561
+"Kenya","2018","Foreign born","KEN",3177
+"Liberia","2018","Foreign born","LBR",3661
+"Libya","2018","Foreign born","LBY",939
+"Morocco","2018","Foreign born","MAR",9126
+"Nigeria","2018","Foreign born","NGA",36444
+"Rwanda","2018","Foreign born","RWA",579
+"Senegal","2018","Foreign born","SEN",10499
+"Sierra Leone","2018","Foreign born","SLE",3396
+"Somalia","2018","Foreign born","SOM",4219
+"South Africa","2018","Foreign born","ZAF",5534
+"Sudan","2018","Foreign born","SDN",2232
+"Tanzania","2018","Foreign born","TZA",1049
+"Togo","2018","Foreign born","TGO",1217
+"Tunisia","2018","Foreign born","TUN",1278
+"Uganda","2018","Foreign born","UGA",1258
+"Democratic Republic of Congo (Zaire)","2018","Foreign born","COD",2537
+"Zambia","2018","Foreign born","ZMB",127
+"Zimbabwe","2018","Foreign born","ZWE",2310
+"Africa","2018","Foreign born",,19795
+"Eastern Africa, not specified","2018","Foreign born",,1347
+"Western Africa, not specified","2018","Foreign born",,14593
+"Other Africa, not specified","2018","Foreign born",,928
+"Eastern Africa, Not Specified","2018","Foreign born",,3165
+"Australia","2018","Foreign born","AUS",14141
+"Fiji","2018","Foreign born","FJI",99
+"Micronesia","2018","Foreign born","KSM",46
+"New Zealand","2018","Foreign born","NZL",1741
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2018","Foreign born",,130
+"Albania","2017","Foreign born","ALB",26768
+"Austria","2017","Foreign born","AUT",6929
+"Belgium","2017","Foreign born","BEL",4289
+"Bulgaria","2017","Foreign born","BGR",5284
+"Czechoslovakia","2017","Foreign born",,2039
+"Denmark","2017","Foreign born","DNK",1840
+"Finland","2017","Foreign born","FIN",735
+"France","2017","Foreign born","FRA",25827
+"Germany","2017","Foreign born","DEU",41002
+"Greece","2017","Foreign born","GRC",27232
+"Hungary","2017","Foreign born","HUN",9683
+"Iceland","2017","Foreign born","ISL",314
+"Ireland","2017","Foreign born","IRL",26355
+"Italy","2017","Foreign born","ITA",88146
+"Netherlands","2017","Foreign born","NLD",6012
+"Norway","2017","Foreign born","NOR",1979
+"Poland","2017","Foreign born","POL",66559
+"Portugal","2017","Foreign born","PRT",10637
+"Romania","2017","Foreign born","ROU",19656
+"Spain","2017","Foreign born","ESP",12028
+"Sweden","2017","Foreign born","SWE",5060
+"Switzerland","2017","Foreign born","CHE",4545
+"United Kingdom, not specified","2017","Foreign born","GBR",33425
+"England","2017","Foreign born",,22576
+"Scotland","2017","Foreign born",,2831
+"Northern Ireland","2017","Foreign born",,2320
+"Yugoslavia","2017","Foreign born",,6547
+"Czech Republic","2017","Foreign born","CZE",1744
+"Slovakia","2017","Foreign born","SVK",2994
+"Bosnia and Herzegovina","2017","Foreign born","BIH",8428
+"Croatia","2017","Foreign born","HRV",7458
+"Macedonia","2017","Foreign born","MKD",5222
+"Serbia","2017","Foreign born","SRB",4354
+"Latvia","2017","Foreign born","LVA",3118
+"Lithuania","2017","Foreign born","LTU",4350
+"Armenia","2017","Foreign born","ARM",1963
+"Azerbaijan","2017","Foreign born","AZE",3827
+"Belarus","2017","Foreign born","BLR",16134
+"Georgia (country)","2017","Foreign born","GEO",9435
+"Moldova","2017","Foreign born","MDA",6367
+"Russia","2017","Foreign born","RUS",76751
+"Ukraine","2017","Foreign born","UKR",75792
+"USSR","2017","Foreign born",,12451
+"Europe","2017","Foreign born",,1619
+"Kosovo","2017","Foreign born",,1699
+"Montenegro","2017","Foreign born","MNE",12297
+"Other Europe, not specified","2017","Foreign born",,4082
+"Afghanistan","2017","Foreign born","AFG",5876
+"Bangladesh","2017","Foreign born","BGD",109465
+"Bhutan","2017","Foreign born","BTN",2781
+"Myanmar","2017","Foreign born","MMR",16270
+"Cambodia","2017","Foreign born","KHM",2371
+"China","2017","Foreign born","CHN",441157
+"Hong Kong","2017","Foreign born","HKG",44198
+"India","2017","Foreign born","IND",162364
+"Indonesia","2017","Foreign born","IDN",5042
+"Iran","2017","Foreign born","IRN",14459
+"Iraq","2017","Foreign born","IRQ",7703
+"Israel","2017","Foreign born","ISR",32202
+"Japan","2017","Foreign born","JPN",26241
+"Jordan","2017","Foreign born","JOR",7178
+"Korea","2017","Foreign born",,93241
+"Kazakhstan","2017","Foreign born","KAZ",5129
+"Kyrgyzstan","2017","Foreign born","KGZ",1981
+"Kuwait","2017","Foreign born","KWT",1868
+"Laos","2017","Foreign born","LAO",3504
+"Lebanon","2017","Foreign born","LBN",5493
+"Malaysia","2017","Foreign born","MYS",12971
+"Mongolia","2017","Foreign born","MNG",189
+"Nepal","2017","Foreign born","NPL",13799
+"Pakistan","2017","Foreign born","PAK",64920
+"Philippines","2017","Foreign born","PHL",87696
+"Saudi Arabia","2017","Foreign born","SAU",3229
+"Singapore","2017","Foreign born","SGP",3684
+"Sri Lanka","2017","Foreign born","LKA",4340
+"Syria","2017","Foreign born","SYR",8874
+"Taiwan","2017","Foreign born","TWN",27381
+"Thailand","2017","Foreign born","THA",11484
+"Turkey","2017","Foreign born","TUR",14780
+"United Arab Emirates","2017","Foreign born","ARE",1161
+"Uzbekistan","2017","Foreign born","UZB",28697
+"Vietnam","2017","Foreign born","VNM",26866
+"Yemen","2017","Foreign born","YEM",13974
+"Asia","2017","Foreign born",,4928
+"South Central Asia, not specified","2017","Foreign born",,2708
+"Other Asia, not specified","2017","Foreign born",,2487
+"Bermuda","2017","Foreign born","BMU",361
+"Canada","2017","Foreign born","CAN",48063
+"Mexico","2017","Foreign born","MEX",210339
+"Belize","2017","Foreign born","BLZ",8391
+"Costa Rica","2017","Foreign born","CRI",6543
+"El Salvador","2017","Foreign born","SLV",117996
+"Guatemala","2017","Foreign born","GTM",62212
+"Honduras","2017","Foreign born","HND",51768
+"Nicaragua","2017","Foreign born","NIC",10964
+"Panama","2017","Foreign born","PAN",20151
+"Antigua & Barbuda","2017","Foreign born","ATG",7115
+"Bahamas","2017","Foreign born","BHS",2042
+"Barbados","2017","Foreign born","BRB",27495
+"Cuba","2017","Foreign born","CUB",26959
+"Dominica","2017","Foreign born","DMA",7346
+"Dominican Republic","2017","Foreign born","DOM",527485
+"Grenada","2017","Foreign born","GRD",21330
+"Haiti","2017","Foreign born","HTI",124580
+"Jamaica","2017","Foreign born","JAM",239203
+"St. Kitts-Nevis","2017","Foreign born",,2884
+"St Lucia","2017","Foreign born","LCA",12114
+"St Vincent & the Grenadines","2017","Foreign born","VCT",14858
+"Trinidad & Tobago","2017","Foreign born","TTO",96981
+"West Indies","2017","Foreign born",,13254
+"Caribbean, Not Specified","2017","Foreign born",,4790
+"Argentina","2017","Foreign born","ARG",15448
+"Bolivia","2017","Foreign born","BOL",3395
+"Brazil","2017","Foreign born","BRA",23881
+"Chile","2017","Foreign born","CHL",14158
+"Colombia","2017","Foreign born","COL",110342
+"Ecuador","2017","Foreign born","ECU",182883
+"Guyana","2017","Foreign born","GUY",157087
+"Paraguay","2017","Foreign born","PRY",4005
+"Peru","2017","Foreign born","PER",59655
+"Uruguay","2017","Foreign born","URY",5615
+"Venezuela","2017","Foreign born","VEN",14732
+"South America","2017","Foreign born",,2657
+"Americas, not specified","2017","Foreign born",,2366
+"Algeria","2017","Foreign born","DZA",3030
+"Cameroon","2017","Foreign born","CMR",1310
+"Cabo Verde","2017","Foreign born","CPV",525
+"Congo","2017","Foreign born","COG",1672
+"Egypt","2017","Foreign born","EGY",25690
+"Ethiopia","2017","Foreign born","ETH",5886
+"Eritrea","2017","Foreign born","ERI",2137
+"Gambia","2017","Foreign born","GMB",5784
+"Ghana","2017","Foreign born","GHA",28073
+"Guinea","2017","Foreign born","GIN",7142
+"Ivory Coast","2017","Foreign born","CIV",4924
+"Kenya","2017","Foreign born","KEN",4213
+"Liberia","2017","Foreign born","LBR",6257
+"Libya","2017","Foreign born","LBY",582
+"Morocco","2017","Foreign born","MAR",9325
+"Nigeria","2017","Foreign born","NGA",33679
+"Rwanda","2017","Foreign born","RWA",113
+"Senegal","2017","Foreign born","SEN",5536
+"Sierra Leone","2017","Foreign born","SLE",1947
+"Somalia","2017","Foreign born","SOM",2349
+"South Africa","2017","Foreign born","ZAF",6922
+"Sudan","2017","Foreign born","SDN",2896
+"Tanzania","2017","Foreign born","TZA",1265
+"Togo","2017","Foreign born","TGO",2798
+"Tunisia","2017","Foreign born","TUN",374
+"Uganda","2017","Foreign born","UGA",1733
+"Democratic Republic of Congo (Zaire)","2017","Foreign born","COD",1780
+"Zambia","2017","Foreign born","ZMB",1392
+"Zimbabwe","2017","Foreign born","ZWE",2069
+"Africa","2017","Foreign born",,14328
+"Eastern Africa, not specified","2017","Foreign born",,263
+"Western Africa, not specified","2017","Foreign born",,15021
+"Other Africa, not specified","2017","Foreign born",,2055
+"Eastern Africa, Not Specified","2017","Foreign born",,1574
+"Australia","2017","Foreign born","AUS",12247
+"Fiji","2017","Foreign born","FJI",185
+"New Zealand","2017","Foreign born","NZL",2145
+"Samoa","2017","Foreign born","WSM",134
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2017","Foreign born",,1044
+"Albania","2016","Foreign born","ALB",25657
+"Austria","2016","Foreign born","AUT",6154
+"Belgium","2016","Foreign born","BEL",5314
+"Bulgaria","2016","Foreign born","BGR",5846
+"Czechoslovakia","2016","Foreign born",,2829
+"Denmark","2016","Foreign born","DNK",2211
+"Finland","2016","Foreign born","FIN",1907
+"France","2016","Foreign born","FRA",24446
+"Germany","2016","Foreign born","DEU",44120
+"Greece","2016","Foreign born","GRC",28510
+"Hungary","2016","Foreign born","HUN",9100
+"Iceland","2016","Foreign born","ISL",560
+"Ireland","2016","Foreign born","IRL",27101
+"Italy","2016","Foreign born","ITA",93454
+"Netherlands","2016","Foreign born","NLD",5605
+"Norway","2016","Foreign born","NOR",1911
+"Poland","2016","Foreign born","POL",79610
+"Portugal","2016","Foreign born","PRT",8645
+"Romania","2016","Foreign born","ROU",20290
+"Spain","2016","Foreign born","ESP",12108
+"Sweden","2016","Foreign born","SWE",6357
+"Switzerland","2016","Foreign born","CHE",4247
+"United Kingdom, not specified","2016","Foreign born","GBR",29727
+"England","2016","Foreign born",,24441
+"Scotland","2016","Foreign born",,4300
+"Yugoslavia","2016","Foreign born",,7961
+"Czech Republic","2016","Foreign born","CZE",1932
+"Slovakia","2016","Foreign born","SVK",2536
+"Bosnia and Herzegovina","2016","Foreign born","BIH",10537
+"Croatia","2016","Foreign born","HRV",5378
+"Macedonia","2016","Foreign born","MKD",3982
+"Serbia","2016","Foreign born","SRB",4660
+"Latvia","2016","Foreign born","LVA",3818
+"Lithuania","2016","Foreign born","LTU",4039
+"Armenia","2016","Foreign born","ARM",3153
+"Azerbaijan","2016","Foreign born","AZE",4508
+"Belarus","2016","Foreign born","BLR",14358
+"Georgia (country)","2016","Foreign born","GEO",7241
+"Moldova","2016","Foreign born","MDA",6336
+"Russia","2016","Foreign born","RUS",69552
+"Ukraine","2016","Foreign born","UKR",71497
+"USSR","2016","Foreign born",,10426
+"Montenegro","2016","Foreign born","MNE",10778
+"Other Europe, not specified","2016","Foreign born",,9129
+"Afghanistan","2016","Foreign born","AFG",8123
+"Bangladesh","2016","Foreign born","BGD",102924
+"Bhutan","2016","Foreign born","BTN",1797
+"Myanmar","2016","Foreign born","MMR",13952
+"Cambodia","2016","Foreign born","KHM",4334
+"China","2016","Foreign born","CHN",425072
+"Cyprus","2016","Foreign born","CYP",1333
+"Hong Kong","2016","Foreign born","HKG",35019
+"India","2016","Foreign born","IND",155585
+"Indonesia","2016","Foreign born","IDN",3852
+"Iran","2016","Foreign born","IRN",19798
+"Iraq","2016","Foreign born","IRQ",3981
+"Israel","2016","Foreign born","ISR",30582
+"Japan","2016","Foreign born","JPN",38639
+"Jordan","2016","Foreign born","JOR",4382
+"Korea","2016","Foreign born",,94371
+"Kazakhstan","2016","Foreign born","KAZ",4477
+"Kuwait","2016","Foreign born","KWT",303
+"Laos","2016","Foreign born","LAO",1238
+"Lebanon","2016","Foreign born","LBN",8121
+"Malaysia","2016","Foreign born","MYS",8739
+"Nepal","2016","Foreign born","NPL",12350
+"Pakistan","2016","Foreign born","PAK",59553
+"Philippines","2016","Foreign born","PHL",88422
+"Saudi Arabia","2016","Foreign born","SAU",4082
+"Singapore","2016","Foreign born","SGP",2612
+"Sri Lanka","2016","Foreign born","LKA",7335
+"Syria","2016","Foreign born","SYR",8720
+"Taiwan","2016","Foreign born","TWN",31766
+"Thailand","2016","Foreign born","THA",13465
+"Turkey","2016","Foreign born","TUR",20093
+"United Arab Emirates","2016","Foreign born","ARE",1294
+"Uzbekistan","2016","Foreign born","UZB",29710
+"Vietnam","2016","Foreign born","VNM",27273
+"Yemen","2016","Foreign born","YEM",28868
+"Asia","2016","Foreign born",,1840
+"South Central Asia, not specified","2016","Foreign born",,4645
+"Other Asia, not specified","2016","Foreign born",,2036
+"Bermuda","2016","Foreign born","BMU",403
+"Canada","2016","Foreign born","CAN",55479
+"Mexico","2016","Foreign born","MEX",238325
+"Belize","2016","Foreign born","BLZ",7473
+"Costa Rica","2016","Foreign born","CRI",7761
+"El Salvador","2016","Foreign born","SLV",109600
+"Guatemala","2016","Foreign born","GTM",71159
+"Honduras","2016","Foreign born","HND",64568
+"Nicaragua","2016","Foreign born","NIC",11020
+"Panama","2016","Foreign born","PAN",16815
+"Antigua & Barbuda","2016","Foreign born","ATG",8835
+"Bahamas","2016","Foreign born","BHS",930
+"Barbados","2016","Foreign born","BRB",23906
+"Cuba","2016","Foreign born","CUB",27031
+"Dominica","2016","Foreign born","DMA",10576
+"Dominican Republic","2016","Foreign born","DOM",520709
+"Grenada","2016","Foreign born","GRD",28260
+"Haiti","2016","Foreign born","HTI",132349
+"Jamaica","2016","Foreign born","JAM",242482
+"St Lucia","2016","Foreign born","LCA",8280
+"St Vincent & the Grenadines","2016","Foreign born","VCT",14567
+"Trinidad & Tobago","2016","Foreign born","TTO",92865
+"West Indies","2016","Foreign born",,11423
+"Caribbean, Not Specified","2016","Foreign born",,12082
+"Argentina","2016","Foreign born","ARG",15950
+"Bolivia","2016","Foreign born","BOL",3910
+"Brazil","2016","Foreign born","BRA",25631
+"Chile","2016","Foreign born","CHL",9250
+"Colombia","2016","Foreign born","COL",104513
+"Ecuador","2016","Foreign born","ECU",178315
+"Guyana","2016","Foreign born","GUY",160309
+"Paraguay","2016","Foreign born","PRY",3208
+"Peru","2016","Foreign born","PER",46950
+"Uruguay","2016","Foreign born","URY",6926
+"Venezuela","2016","Foreign born","VEN",10730
+"South America","2016","Foreign born",,3739
+"Americas, not specified","2016","Foreign born",,3731
+"Algeria","2016","Foreign born","DZA",2548
+"Cameroon","2016","Foreign born","CMR",1874
+"Cabo Verde","2016","Foreign born","CPV",458
+"Congo","2016","Foreign born","COG",6303
+"Egypt","2016","Foreign born","EGY",22578
+"Ethiopia","2016","Foreign born","ETH",7612
+"Eritrea","2016","Foreign born","ERI",2129
+"Gambia","2016","Foreign born","GMB",3410
+"Ghana","2016","Foreign born","GHA",32465
+"Guinea","2016","Foreign born","GIN",5328
+"Kenya","2016","Foreign born","KEN",3964
+"Liberia","2016","Foreign born","LBR",3880
+"Libya","2016","Foreign born","LBY",2994
+"Morocco","2016","Foreign born","MAR",10207
+"Nigeria","2016","Foreign born","NGA",31928
+"Senegal","2016","Foreign born","SEN",5478
+"Sierra Leone","2016","Foreign born","SLE",1932
+"Somalia","2016","Foreign born","SOM",1085
+"South Africa","2016","Foreign born","ZAF",6664
+"Sudan","2016","Foreign born","SDN",1493
+"Tanzania","2016","Foreign born","TZA",1810
+"Togo","2016","Foreign born","TGO",4761
+"Uganda","2016","Foreign born","UGA",929
+"Democratic Republic of Congo (Zaire)","2016","Foreign born","COD",2140
+"Zambia","2016","Foreign born","ZMB",727
+"Zimbabwe","2016","Foreign born","ZWE",2143
+"Africa","2016","Foreign born",,15270
+"Eastern Africa, not specified","2016","Foreign born",,1665
+"Northern Africa, not specified","2016","Foreign born",,1964
+"Western Africa, not specified","2016","Foreign born",,13085
+"Other Africa, not specified","2016","Foreign born",,2152
+"Australia","2016","Foreign born","AUS",10567
+"Fiji","2016","Foreign born","FJI",131
+"Micronesia","2016","Foreign born","KSM",123
+"New Zealand","2016","Foreign born","NZL",2143
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2016","Foreign born",,1718
+"Albania","2015","Foreign born","ALB",26054
+"Austria","2015","Foreign born","AUT",7146
+"Belgium","2015","Foreign born","BEL",4613
+"Bulgaria","2015","Foreign born","BGR",7711
+"Czechoslovakia","2015","Foreign born",,2161
+"Denmark","2015","Foreign born","DNK",2185
+"Finland","2015","Foreign born","FIN",1666
+"France","2015","Foreign born","FRA",30068
+"Germany","2015","Foreign born","DEU",43935
+"Greece","2015","Foreign born","GRC",30910
+"Hungary","2015","Foreign born","HUN",10616
+"Iceland","2015","Foreign born","ISL",290
+"Ireland","2015","Foreign born","IRL",29152
+"Italy","2015","Foreign born","ITA",96405
+"Netherlands","2015","Foreign born","NLD",5634
+"Norway","2015","Foreign born","NOR",1852
+"Poland","2015","Foreign born","POL",70900
+"Portugal","2015","Foreign born","PRT",11960
+"Azores Islands","2015","Foreign born",,46
+"Romania","2015","Foreign born","ROU",18137
+"Spain","2015","Foreign born","ESP",14889
+"Sweden","2015","Foreign born","SWE",4181
+"Switzerland","2015","Foreign born","CHE",5305
+"United Kingdom, not specified","2015","Foreign born","GBR",30850
+"England","2015","Foreign born",,27428
+"Scotland","2015","Foreign born",,4651
+"Yugoslavia","2015","Foreign born",,9098
+"Czech Republic","2015","Foreign born","CZE",2054
+"Slovakia","2015","Foreign born","SVK",3726
+"Bosnia and Herzegovina","2015","Foreign born","BIH",6281
+"Croatia","2015","Foreign born","HRV",7149
+"Macedonia","2015","Foreign born","MKD",5546
+"Serbia","2015","Foreign born","SRB",4081
+"Latvia","2015","Foreign born","LVA",3328
+"Lithuania","2015","Foreign born","LTU",3237
+"Armenia","2015","Foreign born","ARM",4072
+"Azerbaijan","2015","Foreign born","AZE",7840
+"Belarus","2015","Foreign born","BLR",12526
+"Georgia (country)","2015","Foreign born","GEO",8358
+"Moldova","2015","Foreign born","MDA",4462
+"Russia","2015","Foreign born","RUS",77387
+"Ukraine","2015","Foreign born","UKR",76260
+"USSR","2015","Foreign born",,10702
+"Montenegro","2015","Foreign born","MNE",9081
+"Other Europe, not specified","2015","Foreign born",,9951
+"Afghanistan","2015","Foreign born","AFG",7503
+"Bangladesh","2015","Foreign born","BGD",89896
+"Bhutan","2015","Foreign born","BTN",2479
+"Myanmar","2015","Foreign born","MMR",14952
+"Cambodia","2015","Foreign born","KHM",3273
+"China","2015","Foreign born","CHN",391994
+"Cyprus","2015","Foreign born","CYP",2870
+"Hong Kong","2015","Foreign born","HKG",45843
+"India","2015","Foreign born","IND",168175
+"Indonesia","2015","Foreign born","IDN",5693
+"Iran","2015","Foreign born","IRN",19547
+"Iraq","2015","Foreign born","IRQ",6616
+"Israel","2015","Foreign born","ISR",33523
+"Japan","2015","Foreign born","JPN",28536
+"Jordan","2015","Foreign born","JOR",4545
+"Korea","2015","Foreign born",,96148
+"Kazakhstan","2015","Foreign born","KAZ",5093
+"Kuwait","2015","Foreign born","KWT",2180
+"Laos","2015","Foreign born","LAO",1896
+"Lebanon","2015","Foreign born","LBN",6484
+"Malaysia","2015","Foreign born","MYS",11462
+"Nepal","2015","Foreign born","NPL",11659
+"Pakistan","2015","Foreign born","PAK",76419
+"Philippines","2015","Foreign born","PHL",100907
+"Saudi Arabia","2015","Foreign born","SAU",2966
+"Singapore","2015","Foreign born","SGP",4330
+"Sri Lanka","2015","Foreign born","LKA",6796
+"Syria","2015","Foreign born","SYR",6046
+"Taiwan","2015","Foreign born","TWN",29068
+"Thailand","2015","Foreign born","THA",12412
+"Turkey","2015","Foreign born","TUR",20997
+"United Arab Emirates","2015","Foreign born","ARE",1518
+"Uzbekistan","2015","Foreign born","UZB",33041
+"Vietnam","2015","Foreign born","VNM",25131
+"Yemen","2015","Foreign born","YEM",11320
+"Asia","2015","Foreign born",,3380
+"South Central Asia, not specified","2015","Foreign born",,4538
+"Other Asia, not specified","2015","Foreign born",,1502
+"Bermuda","2015","Foreign born","BMU",899
+"Canada","2015","Foreign born","CAN",53079
+"Mexico","2015","Foreign born","MEX",232820
+"Belize","2015","Foreign born","BLZ",5297
+"Costa Rica","2015","Foreign born","CRI",7298
+"El Salvador","2015","Foreign born","SLV",114492
+"Guatemala","2015","Foreign born","GTM",63367
+"Honduras","2015","Foreign born","HND",49040
+"Nicaragua","2015","Foreign born","NIC",12393
+"Panama","2015","Foreign born","PAN",20101
+"Antigua & Barbuda","2015","Foreign born","ATG",7896
+"Bahamas","2015","Foreign born","BHS",1627
+"Barbados","2015","Foreign born","BRB",22728
+"Cuba","2015","Foreign born","CUB",26156
+"Dominica","2015","Foreign born","DMA",11764
+"Dominican Republic","2015","Foreign born","DOM",504492
+"Grenada","2015","Foreign born","GRD",19393
+"Haiti","2015","Foreign born","HTI",131024
+"Jamaica","2015","Foreign born","JAM",236307
+"St Lucia","2015","Foreign born","LCA",8127
+"St Vincent & the Grenadines","2015","Foreign born","VCT",15358
+"Trinidad & Tobago","2015","Foreign born","TTO",99948
+"West Indies","2015","Foreign born",,12842
+"Caribbean, Not Specified","2015","Foreign born",,9851
+"Argentina","2015","Foreign born","ARG",18049
+"Bolivia","2015","Foreign born","BOL",4650
+"Brazil","2015","Foreign born","BRA",20713
+"Chile","2015","Foreign born","CHL",8336
+"Colombia","2015","Foreign born","COL",103821
+"Ecuador","2015","Foreign born","ECU",187513
+"Guyana","2015","Foreign born","GUY",161723
+"Paraguay","2015","Foreign born","PRY",2418
+"Peru","2015","Foreign born","PER",58945
+"Uruguay","2015","Foreign born","URY",5930
+"Venezuela","2015","Foreign born","VEN",11279
+"South America","2015","Foreign born",,2835
+"Americas, not specified","2015","Foreign born",,1413
+"Algeria","2015","Foreign born","DZA",3312
+"Cameroon","2015","Foreign born","CMR",940
+"Congo","2015","Foreign born","COG",428
+"Egypt","2015","Foreign born","EGY",25569
+"Ethiopia","2015","Foreign born","ETH",2662
+"Eritrea","2015","Foreign born","ERI",734
+"Gambia","2015","Foreign born","GMB",3188
+"Ghana","2015","Foreign born","GHA",27950
+"Guinea","2015","Foreign born","GIN",3696
+"Kenya","2015","Foreign born","KEN",4864
+"Liberia","2015","Foreign born","LBR",3542
+"Libya","2015","Foreign born","LBY",143
+"Morocco","2015","Foreign born","MAR",8903
+"Nigeria","2015","Foreign born","NGA",35317
+"Senegal","2015","Foreign born","SEN",9801
+"Sierra Leone","2015","Foreign born","SLE",2746
+"Somalia","2015","Foreign born","SOM",3948
+"South Africa","2015","Foreign born","ZAF",5382
+"Sudan","2015","Foreign born","SDN",3779
+"Tanzania","2015","Foreign born","TZA",1903
+"Togo","2015","Foreign born","TGO",3469
+"Uganda","2015","Foreign born","UGA",747
+"Democratic Republic of Congo (Zaire)","2015","Foreign born","COD",2482
+"Zambia","2015","Foreign born","ZMB",1903
+"Zimbabwe","2015","Foreign born","ZWE",1063
+"Africa","2015","Foreign born",,15761
+"Eastern Africa, not specified","2015","Foreign born",,1244
+"Northern Africa, not specified","2015","Foreign born",,2208
+"Western Africa, not specified","2015","Foreign born",,10194
+"Other Africa, not specified","2015","Foreign born",,2681
+"Australia","2015","Foreign born","AUS",10508
+"Fiji","2015","Foreign born","FJI",122
+"Micronesia","2015","Foreign born","KSM",601
+"New Zealand","2015","Foreign born","NZL",2902
+"Tonga","2015","Foreign born","TON",222
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2015","Foreign born",,594
+"Albania","2014","Foreign born","ALB",27605
+"Austria","2014","Foreign born","AUT",8055
+"Belgium","2014","Foreign born","BEL",5316
+"Bulgaria","2014","Foreign born","BGR",5418
+"Czechoslovakia","2014","Foreign born",,2217
+"Denmark","2014","Foreign born","DNK",2531
+"Finland","2014","Foreign born","FIN",667
+"France","2014","Foreign born","FRA",23275
+"Germany","2014","Foreign born","DEU",47487
+"Greece","2014","Foreign born","GRC",30073
+"Hungary","2014","Foreign born","HUN",9930
+"Iceland","2014","Foreign born","ISL",463
+"Ireland","2014","Foreign born","IRL",26935
+"Italy","2014","Foreign born","ITA",97733
+"Netherlands","2014","Foreign born","NLD",5640
+"Norway","2014","Foreign born","NOR",2072
+"Poland","2014","Foreign born","POL",76448
+"Portugal","2014","Foreign born","PRT",11417
+"Romania","2014","Foreign born","ROU",21837
+"Spain","2014","Foreign born","ESP",11770
+"Sweden","2014","Foreign born","SWE",4968
+"Switzerland","2014","Foreign born","CHE",6146
+"United Kingdom, not specified","2014","Foreign born","GBR",29190
+"England","2014","Foreign born",,27118
+"Scotland","2014","Foreign born",,4318
+"Yugoslavia","2014","Foreign born",,6682
+"Czech Republic","2014","Foreign born","CZE",2522
+"Slovakia","2014","Foreign born","SVK",3620
+"Bosnia and Herzegovina","2014","Foreign born","BIH",7703
+"Croatia","2014","Foreign born","HRV",6410
+"Macedonia","2014","Foreign born","MKD",5704
+"Serbia","2014","Foreign born","SRB",3352
+"Latvia","2014","Foreign born","LVA",3712
+"Lithuania","2014","Foreign born","LTU",3094
+"Armenia","2014","Foreign born","ARM",3146
+"Azerbaijan","2014","Foreign born","AZE",8522
+"Belarus","2014","Foreign born","BLR",14243
+"Georgia (country)","2014","Foreign born","GEO",5955
+"Moldova","2014","Foreign born","MDA",7004
+"Russia","2014","Foreign born","RUS",79661
+"Ukraine","2014","Foreign born","UKR",82678
+"USSR","2014","Foreign born",,9477
+"Montenegro","2014","Foreign born","MNE",10404
+"Other Europe, not specified","2014","Foreign born",,6070
+"Afghanistan","2014","Foreign born","AFG",8872
+"Bangladesh","2014","Foreign born","BGD",94794
+"Bhutan","2014","Foreign born","BTN",5803
+"Myanmar","2014","Foreign born","MMR",10979
+"Cambodia","2014","Foreign born","KHM",2771
+"China","2014","Foreign born","CHN",385277
+"Cyprus","2014","Foreign born","CYP",1837
+"Hong Kong","2014","Foreign born","HKG",41300
+"India","2014","Foreign born","IND",159897
+"Indonesia","2014","Foreign born","IDN",7383
+"Iran","2014","Foreign born","IRN",20510
+"Iraq","2014","Foreign born","IRQ",5426
+"Israel","2014","Foreign born","ISR",34697
+"Japan","2014","Foreign born","JPN",29563
+"Jordan","2014","Foreign born","JOR",3029
+"Korea","2014","Foreign born",,86263
+"Kazakhstan","2014","Foreign born","KAZ",3566
+"Kuwait","2014","Foreign born","KWT",926
+"Laos","2014","Foreign born","LAO",3311
+"Lebanon","2014","Foreign born","LBN",5430
+"Malaysia","2014","Foreign born","MYS",9788
+"Nepal","2014","Foreign born","NPL",14236
+"Pakistan","2014","Foreign born","PAK",69088
+"Philippines","2014","Foreign born","PHL",90850
+"Saudi Arabia","2014","Foreign born","SAU",2178
+"Singapore","2014","Foreign born","SGP",2975
+"Sri Lanka","2014","Foreign born","LKA",4297
+"Syria","2014","Foreign born","SYR",5390
+"Taiwan","2014","Foreign born","TWN",29928
+"Thailand","2014","Foreign born","THA",14565
+"Turkey","2014","Foreign born","TUR",20860
+"United Arab Emirates","2014","Foreign born","ARE",1103
+"Uzbekistan","2014","Foreign born","UZB",22264
+"Vietnam","2014","Foreign born","VNM",20546
+"Yemen","2014","Foreign born","YEM",16920
+"Asia","2014","Foreign born",,3065
+"South Central Asia, not specified","2014","Foreign born",,3006
+"Other Asia, not specified","2014","Foreign born",,1393
+"Bermuda","2014","Foreign born","BMU",484
+"Canada","2014","Foreign born","CAN",55306
+"Mexico","2014","Foreign born","MEX",255140
+"Belize","2014","Foreign born","BLZ",8018
+"Costa Rica","2014","Foreign born","CRI",7320
+"El Salvador","2014","Foreign born","SLV",114769
+"Guatemala","2014","Foreign born","GTM",61438
+"Honduras","2014","Foreign born","HND",50545
+"Nicaragua","2014","Foreign born","NIC",7407
+"Panama","2014","Foreign born","PAN",20844
+"Antigua & Barbuda","2014","Foreign born","ATG",9079
+"Bahamas","2014","Foreign born","BHS",1942
+"Barbados","2014","Foreign born","BRB",25171
+"Cuba","2014","Foreign born","CUB",25133
+"Dominica","2014","Foreign born","DMA",10093
+"Dominican Republic","2014","Foreign born","DOM",480389
+"Grenada","2014","Foreign born","GRD",22364
+"Haiti","2014","Foreign born","HTI",126491
+"Jamaica","2014","Foreign born","JAM",241868
+"St Lucia","2014","Foreign born","LCA",11443
+"St Vincent & the Grenadines","2014","Foreign born","VCT",16105
+"Trinidad & Tobago","2014","Foreign born","TTO",91698
+"West Indies","2014","Foreign born",,12360
+"Caribbean, Not Specified","2014","Foreign born",,11721
+"Argentina","2014","Foreign born","ARG",22494
+"Bolivia","2014","Foreign born","BOL",5135
+"Brazil","2014","Foreign born","BRA",21924
+"Chile","2014","Foreign born","CHL",10806
+"Colombia","2014","Foreign born","COL",100177
+"Ecuador","2014","Foreign born","ECU",176165
+"Guyana","2014","Foreign born","GUY",164059
+"Paraguay","2014","Foreign born","PRY",6599
+"Peru","2014","Foreign born","PER",55208
+"Uruguay","2014","Foreign born","URY",6377
+"Venezuela","2014","Foreign born","VEN",14304
+"South America","2014","Foreign born",,3067
+"Americas, not specified","2014","Foreign born",,1383
+"Algeria","2014","Foreign born","DZA",3515
+"Cameroon","2014","Foreign born","CMR",1628
+"Cabo Verde","2014","Foreign born","CPV",374
+"Congo","2014","Foreign born","COG",959
+"Egypt","2014","Foreign born","EGY",25118
+"Ethiopia","2014","Foreign born","ETH",5846
+"Eritrea","2014","Foreign born","ERI",433
+"Gambia","2014","Foreign born","GMB",3758
+"Ghana","2014","Foreign born","GHA",31867
+"Guinea","2014","Foreign born","GIN",6988
+"Kenya","2014","Foreign born","KEN",3336
+"Liberia","2014","Foreign born","LBR",5987
+"Libya","2014","Foreign born","LBY",939
+"Morocco","2014","Foreign born","MAR",10509
+"Nigeria","2014","Foreign born","NGA",31197
+"Senegal","2014","Foreign born","SEN",7019
+"Sierra Leone","2014","Foreign born","SLE",1971
+"Somalia","2014","Foreign born","SOM",1468
+"South Africa","2014","Foreign born","ZAF",5157
+"Sudan","2014","Foreign born","SDN",1254
+"Tanzania","2014","Foreign born","TZA",3097
+"Togo","2014","Foreign born","TGO",2434
+"Uganda","2014","Foreign born","UGA",1434
+"Democratic Republic of Congo (Zaire)","2014","Foreign born","COD",2555
+"Zambia","2014","Foreign born","ZMB",559
+"Zimbabwe","2014","Foreign born","ZWE",1310
+"Africa","2014","Foreign born",,12594
+"Eastern Africa, not specified","2014","Foreign born",,3639
+"Northern Africa, not specified","2014","Foreign born",,1843
+"Western Africa, not specified","2014","Foreign born",,9770
+"Other Africa, not specified","2014","Foreign born",,2965
+"Australia","2014","Foreign born","AUS",9179
+"Fiji","2014","Foreign born","FJI",282
+"Marshall Islands","2014","Foreign born","MHL",334
+"Micronesia","2014","Foreign born","KSM",543
+"New Zealand","2014","Foreign born","NZL",2278
+"Other U.S. Island Areas, Oceania, Not Specified, or at Sea","2014","Foreign born",,1098
