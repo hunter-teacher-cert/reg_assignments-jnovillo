@@ -11,9 +11,9 @@ race and ethnicity, employment by occupations, and global diversity.
 ### Files description:
 
 + assignment_directions.pdf => Directions for the assignment (including hints), list of functions students will need to work on their assignment, and documentation resources
++ data/* => Data sets needed for the assignment
 + solution/ => Folder that contains the code expected to solve each assignment question
 + solution/readme.txt => Python and packages installation
-+ solution/data/* => Data sets needed for the assignment
 + solution/solution.py => Script that shows the possible solution for all the questions in the assignment
 + solutions/tm_ethnic.html => Expected chart question 2
 + solutions/hist_occupation.html => Expected chart question 3
