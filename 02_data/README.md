@@ -19,3 +19,5 @@ race and ethnicity, employment by occupations, and global diversity.
 + solutions/hist_occupation.html => Expected chart question 3
 + solutions/line_computer_math => Expected chart question 4
 + solutions/word_map.html => Expected chart question 5 (bonus)
+
+The files that would be provided to the students are assignment_directions.pdf, solution/readme.txt and solution/data/*
