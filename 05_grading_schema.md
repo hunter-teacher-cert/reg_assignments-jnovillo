@@ -18,7 +18,7 @@ For this lab, I would like to design a grading schema based on three evaluation 
 
 This is the rubric I would use for this case:
 
-| **Criteria**      | **Strong (3)**    |  **Average (2)**  | **Week (1)**      |
+| **Criteria**      | **Strong (3)**    |  **Average (2)**  | **Weak (1)**      |
 | ------------- | ------------- | ------------- | ------------- |
 | **Content**  | Student shows an understanding of the content: reading CSV files, creating functions, working with lists, dictionaries, conditions, and loops. |  Student shows some understanding of the content: reading CSV files, creating functions, working with lists, dictionaries, conditions, and loops. | Student does not show understanding of the content: reading CSV files, creating functions, working with lists, dictionaries, conditions, and loops.  | 
 | **Functionality**  | Code generates expected output. | Code partially generates expected output.  | Code does not work or does not generate expected output.  |
