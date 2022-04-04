@@ -2,11 +2,11 @@
 
 ### Task
 
-Students will be asked to develop the game “Rock, papers, scissors, fire, water” in Python (a quick look at the FRIENDS series, https://www.youtube.com/watch?v=lMCE2cvR7tg). The user should enter a selection that has to be a string. Please note that the user could enter a word in lowercase, uppercase, or a combination of both. The computer randomly makes a selection. Then, the winner (user vs. computer) should be determined based on the rules of the game (see image below). The program should keep and show the players’ scores. After each game, the program should ask if the user wants to play again.
+Students will be asked to develop the game “Rock, papers, scissors, fire, water” in Python (quick look at the FRIENDS series, https://www.youtube.com/watch?v=lMCE2cvR7tg). The user should enter a selection that has to be a string. Please note that the user could enter a word in lowercase, uppercase, or a combination of both. The computer randomly makes a selection. Then, the winner (user vs. computer) should be determined based on the rules of the game (see image below). The program should keep and show the players’ scores. After each game, the program should ask if the user wants to play again.
 
-!(07_google_game_image)
+![image](https://github.com/hunter-teacher-cert/reg_assignments-jnovillo/blob/main/07_google_game_image.jpg)
 
-**Note:** Started code is not provided because the code for the game “Rock, papers, scissors” in Python could be found online. However, students should adjust to meet all the requirements detailed in the task. For instance, I added “fire, water” to the game so students do not only copy and paste the code they find. I also include a mixed user input string (that will make the students convert the string into one format, for example, only lowercase) because this feature is not found in the results when students will search for the game “Rock, papers, scissors, fire, water” online.
+**Note:** Started code is not provided because the code for the game “Rock, papers, scissors” in Python could be found online. However, students should adjust it to meet all the requirements detailed in the task. For instance, I added “fire, water” to the game so students do not only copy and paste the code they find. I also include a mixed user input string (that will make the students convert the string into one format, for example, only lowercase) because this feature is not found in the results when students will search for the game “Rock, papers, scissors, fire, water” online.
 
 ### Search result 1
 
